@@ -40,3 +40,7 @@ html {
 .content .creator {
   color: #eee;
 }
+
+.content .octicon-mark-github {
+  color: #fff;
+}
