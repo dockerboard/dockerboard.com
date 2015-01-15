@@ -44,3 +44,17 @@ html {
 .content .octicon-mark-github {
   color: #fff;
 }
+
+.try-demo {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 24px;
+  padding: 5px;
+  color: #fff;
+  border-radius: 5px;
+  background-color: #24b8eb;
+}
+
+.try-demo:hover {
+  color: #F7DF31;
+}
