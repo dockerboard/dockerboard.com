@@ -2,7 +2,7 @@
 
   Simple dashboards, visualizations, managements for your dockers.
 
-  Lovingly created and maintained by [DockerPool][] Team.
+  Lovingly created and maintained by [@fundon][].
 
 
-[DockerPool]: http://dockerpool.com/
+[@fundon]: https://fundon.me
